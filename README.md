@@ -139,7 +139,7 @@ https://openwall.info/wiki/john/johnny
 For Kali-Linux
 
 ###
-###
+### git clone https://github.com/keralahacker/John-the-Ripper.git
 ###
 ###
 
@@ -148,7 +148,7 @@ For ANDROID
 ### Install TERUMX ==> https://play.google.com/store/apps/details?id=com.termux
 Dwonload&Install
 
-###git clone
+### git clone https://github.com/keralahacker/John-the-Ripper.git
 ###
 ###
 ###
